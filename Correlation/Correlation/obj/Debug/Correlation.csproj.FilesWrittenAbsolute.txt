@@ -1,0 +1,6 @@
+/Users/cuvellierdavid/IT/dir/DotNetCorrelation/Correlation/Correlation/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/cuvellierdavid/IT/dir/DotNetCorrelation/Correlation/Correlation/bin/Debug/Correlation.dll.mdb
+/Users/cuvellierdavid/IT/dir/DotNetCorrelation/Correlation/Correlation/bin/Debug/Correlation.dll
+/Users/cuvellierdavid/IT/dir/DotNetCorrelation/Correlation/Correlation/obj/Debug/Correlation.dll
+/Users/cuvellierdavid/IT/dir/DotNetCorrelation/Correlation/Correlation/obj/Debug/Correlation.dll.mdb
+/Users/cuvellierdavid/IT/dir/DotNetCorrelation/Correlation/Correlation/bin/Debug/nunit.framework.dll

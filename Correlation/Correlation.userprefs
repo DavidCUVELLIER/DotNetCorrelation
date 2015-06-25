@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Correlation/Correlation.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Correlation/CoreCorrelationTest.cs">
+    <Files>
+      <File FileName="Correlation/CoreCorrelationTest.cs" Line="111" Column="103" />
+      <File FileName="Correlation/CoreCorrelReaderWriter.cs" Line="65" Column="4" />
+      <File FileName="Correlation/ItemResult.cs" Line="1" Column="1" />
+      <File FileName="Correlation/OccursResult.cs" Line="1" Column="1" />
+      <File FileName="Correlation/CoreEngine.cs" Line="1" Column="1" />
+      <File FileName="Correlation/DetailOccurs.cs" Line="1" Column="1" />
+      <File FileName="Correlation/CoreCorrelation.cs" Line="1" Column="1" />
+      <File FileName="Correlation/GlobalResult.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/cuvellierdavid/Projects/Correlation/Correlation/CoreCorrelationTest.cs" line="123" column="1" />
+      <Breakpoint file="/Users/cuvellierdavid/Projects/Correlation/Correlation/CoreCorrelationTest.cs" line="122" column="1" />
+      <Breakpoint file="/Users/cuvellierdavid/Projects/Correlation/Correlation/CoreCorrelationTest.cs" line="121" column="1" />
+      <Breakpoint file="/Users/cuvellierdavid/Projects/Correlation/Correlation/OccursResult.cs" line="33" column="1" />
+      <Breakpoint file="/Users/cuvellierdavid/Projects/Correlation/Correlation/CoreCorrelationTest.cs" line="163" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
